@@ -33,6 +33,5 @@ class LinkNode{
       }
       current = current.next;
     }
-    
-  
+   return false; 
   }
