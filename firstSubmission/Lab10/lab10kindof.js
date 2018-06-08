@@ -13,12 +13,7 @@ class LinkedList {
   }
 
   static fromArray(items) {
-    // Build the list up backwards.
-    // Start by creating the last node that points to nothing.
-    // Then make the second-to-last node and point it
-    // to the last node.
-    // Then make another node and point it to the second-to-last node.
-    // Do this until the list is entirely built up.
+   
  
     let n6 = new ListNode(6);
     let n9 = new ListNode(9);
